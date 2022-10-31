@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "045648EF-B4DA-492E-89B8-0E596040BCE6"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4F182D35-D64D-475E-8503-6A1718317B08"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ShoppingList/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "4F182D35-D64D-475E-8503-6A1718317B08 - 50caffd83d7b3755"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ShoppingList.ViewController.ItemTwo.getter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "ShoppingList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chetanpatel57/Documents/IOS/MidTerm/ShoppingList/ShoppingList/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "4F182D35-D64D-475E-8503-6A1718317B08 - 4d71ce89997a4369"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ShoppingList.ViewController.ItemTwo.setter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "ShoppingList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chetanpatel57/Documents/IOS/MidTerm/ShoppingList/ShoppingList/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "4F182D35-D64D-475E-8503-6A1718317B08 - 539bfb76cafe9858"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ShoppingList.ViewController.ItemTwo.modify : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "ShoppingList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chetanpatel57/Documents/IOS/MidTerm/ShoppingList/ShoppingList/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "4F182D35-D64D-475E-8503-6A1718317B08 - ce509417a84af944"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ShoppingList.ViewController.ItemTwo.modify : Swift.Optional&lt;__C.UITextField&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "ShoppingList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chetanpatel57/Documents/IOS/MidTerm/ShoppingList/ShoppingList/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "4F182D35-D64D-475E-8503-6A1718317B08 - f0bd8816352a9af5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ShoppingList.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; ShoppingList.ViewController"
+                  moduleName = "ShoppingList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chetanpatel57/Documents/IOS/MidTerm/ShoppingList/ShoppingList/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "228">
+               </Location>
+               <Location
+                  uuid = "4F182D35-D64D-475E-8503-6A1718317B08 - 2afb4ed071939fdf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ShoppingList.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;ShoppingList.ViewController&gt;"
+                  moduleName = "ShoppingList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chetanpatel57/Documents/IOS/MidTerm/ShoppingList/ShoppingList/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "204">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
